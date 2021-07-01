@@ -1,0 +1,10 @@
+C:\Users\yaren\OneDrive\Masaüstü\udemyc#\sinema_projesi\sinema_projesi\obj\Debug\sinema_projesi.csprojAssemblyReference.cache
+C:\Users\yaren\OneDrive\Masaüstü\udemyc#\sinema_projesi\sinema_projesi\obj\Debug\sinema_projesi.Form1.resources
+C:\Users\yaren\OneDrive\Masaüstü\udemyc#\sinema_projesi\sinema_projesi\obj\Debug\sinema_projesi.Properties.Resources.resources
+C:\Users\yaren\OneDrive\Masaüstü\udemyc#\sinema_projesi\sinema_projesi\obj\Debug\sinema_projesi.csproj.GenerateResource.cache
+C:\Users\yaren\OneDrive\Masaüstü\udemyc#\sinema_projesi\sinema_projesi\obj\Debug\sinema_projesi.csproj.CoreCompileInputs.cache
+C:\Users\yaren\OneDrive\Masaüstü\udemyc#\sinema_projesi\sinema_projesi\bin\Debug\sinema_projesi.exe.config
+C:\Users\yaren\OneDrive\Masaüstü\udemyc#\sinema_projesi\sinema_projesi\bin\Debug\sinema_projesi.exe
+C:\Users\yaren\OneDrive\Masaüstü\udemyc#\sinema_projesi\sinema_projesi\bin\Debug\sinema_projesi.pdb
+C:\Users\yaren\OneDrive\Masaüstü\udemyc#\sinema_projesi\sinema_projesi\obj\Debug\sinema_projesi.exe
+C:\Users\yaren\OneDrive\Masaüstü\udemyc#\sinema_projesi\sinema_projesi\obj\Debug\sinema_projesi.pdb

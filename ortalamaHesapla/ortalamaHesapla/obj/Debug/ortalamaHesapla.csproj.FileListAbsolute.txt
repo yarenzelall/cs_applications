@@ -1,0 +1,10 @@
+C:\Users\yaren\OneDrive\Masaüstü\udemyc#\ortalamaHesapla\ortalamaHesapla\obj\Debug\ortalamaHesapla.csprojAssemblyReference.cache
+C:\Users\yaren\OneDrive\Masaüstü\udemyc#\ortalamaHesapla\ortalamaHesapla\obj\Debug\ortalamaHesapla.Form1.resources
+C:\Users\yaren\OneDrive\Masaüstü\udemyc#\ortalamaHesapla\ortalamaHesapla\obj\Debug\ortalamaHesapla.Properties.Resources.resources
+C:\Users\yaren\OneDrive\Masaüstü\udemyc#\ortalamaHesapla\ortalamaHesapla\obj\Debug\ortalamaHesapla.csproj.GenerateResource.cache
+C:\Users\yaren\OneDrive\Masaüstü\udemyc#\ortalamaHesapla\ortalamaHesapla\obj\Debug\ortalamaHesapla.csproj.CoreCompileInputs.cache
+C:\Users\yaren\OneDrive\Masaüstü\udemyc#\ortalamaHesapla\ortalamaHesapla\bin\Debug\ortalamaHesapla.exe.config
+C:\Users\yaren\OneDrive\Masaüstü\udemyc#\ortalamaHesapla\ortalamaHesapla\bin\Debug\ortalamaHesapla.exe
+C:\Users\yaren\OneDrive\Masaüstü\udemyc#\ortalamaHesapla\ortalamaHesapla\bin\Debug\ortalamaHesapla.pdb
+C:\Users\yaren\OneDrive\Masaüstü\udemyc#\ortalamaHesapla\ortalamaHesapla\obj\Debug\ortalamaHesapla.exe
+C:\Users\yaren\OneDrive\Masaüstü\udemyc#\ortalamaHesapla\ortalamaHesapla\obj\Debug\ortalamaHesapla.pdb

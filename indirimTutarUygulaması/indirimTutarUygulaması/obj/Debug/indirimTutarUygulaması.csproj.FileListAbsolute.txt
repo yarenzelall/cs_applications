@@ -1,0 +1,10 @@
+C:\Users\yaren\OneDrive\Masaüstü\udemyc#\indirimTutarUygulaması\indirimTutarUygulaması\obj\Debug\indirimTutarUygulaması.csprojAssemblyReference.cache
+C:\Users\yaren\OneDrive\Masaüstü\udemyc#\indirimTutarUygulaması\indirimTutarUygulaması\obj\Debug\indirimTutarUygulaması.Form1.resources
+C:\Users\yaren\OneDrive\Masaüstü\udemyc#\indirimTutarUygulaması\indirimTutarUygulaması\obj\Debug\indirimTutarUygulaması.Properties.Resources.resources
+C:\Users\yaren\OneDrive\Masaüstü\udemyc#\indirimTutarUygulaması\indirimTutarUygulaması\obj\Debug\indirimTutarUygulaması.csproj.GenerateResource.cache
+C:\Users\yaren\OneDrive\Masaüstü\udemyc#\indirimTutarUygulaması\indirimTutarUygulaması\obj\Debug\indirimTutarUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\yaren\OneDrive\Masaüstü\udemyc#\indirimTutarUygulaması\indirimTutarUygulaması\bin\Debug\indirimTutarUygulaması.exe.config
+C:\Users\yaren\OneDrive\Masaüstü\udemyc#\indirimTutarUygulaması\indirimTutarUygulaması\bin\Debug\indirimTutarUygulaması.exe
+C:\Users\yaren\OneDrive\Masaüstü\udemyc#\indirimTutarUygulaması\indirimTutarUygulaması\bin\Debug\indirimTutarUygulaması.pdb
+C:\Users\yaren\OneDrive\Masaüstü\udemyc#\indirimTutarUygulaması\indirimTutarUygulaması\obj\Debug\indirimTutarUygulaması.exe
+C:\Users\yaren\OneDrive\Masaüstü\udemyc#\indirimTutarUygulaması\indirimTutarUygulaması\obj\Debug\indirimTutarUygulaması.pdb

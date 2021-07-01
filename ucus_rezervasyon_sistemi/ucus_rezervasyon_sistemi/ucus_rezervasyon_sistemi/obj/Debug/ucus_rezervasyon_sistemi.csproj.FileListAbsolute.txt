@@ -1,0 +1,10 @@
+C:\Users\yaren\OneDrive\Masaüstü\udemyc#\ucus_rezervasyon_sistemi\ucus_rezervasyon_sistemi\ucus_rezervasyon_sistemi\bin\Debug\ucus_rezervasyon_sistemi.exe.config
+C:\Users\yaren\OneDrive\Masaüstü\udemyc#\ucus_rezervasyon_sistemi\ucus_rezervasyon_sistemi\ucus_rezervasyon_sistemi\bin\Debug\ucus_rezervasyon_sistemi.exe
+C:\Users\yaren\OneDrive\Masaüstü\udemyc#\ucus_rezervasyon_sistemi\ucus_rezervasyon_sistemi\ucus_rezervasyon_sistemi\bin\Debug\ucus_rezervasyon_sistemi.pdb
+C:\Users\yaren\OneDrive\Masaüstü\udemyc#\ucus_rezervasyon_sistemi\ucus_rezervasyon_sistemi\ucus_rezervasyon_sistemi\obj\Debug\ucus_rezervasyon_sistemi.csprojAssemblyReference.cache
+C:\Users\yaren\OneDrive\Masaüstü\udemyc#\ucus_rezervasyon_sistemi\ucus_rezervasyon_sistemi\ucus_rezervasyon_sistemi\obj\Debug\ucus_rezervasyon_sistemi.Form1.resources
+C:\Users\yaren\OneDrive\Masaüstü\udemyc#\ucus_rezervasyon_sistemi\ucus_rezervasyon_sistemi\ucus_rezervasyon_sistemi\obj\Debug\ucus_rezervasyon_sistemi.Properties.Resources.resources
+C:\Users\yaren\OneDrive\Masaüstü\udemyc#\ucus_rezervasyon_sistemi\ucus_rezervasyon_sistemi\ucus_rezervasyon_sistemi\obj\Debug\ucus_rezervasyon_sistemi.csproj.GenerateResource.cache
+C:\Users\yaren\OneDrive\Masaüstü\udemyc#\ucus_rezervasyon_sistemi\ucus_rezervasyon_sistemi\ucus_rezervasyon_sistemi\obj\Debug\ucus_rezervasyon_sistemi.csproj.CoreCompileInputs.cache
+C:\Users\yaren\OneDrive\Masaüstü\udemyc#\ucus_rezervasyon_sistemi\ucus_rezervasyon_sistemi\ucus_rezervasyon_sistemi\obj\Debug\ucus_rezervasyon_sistemi.exe
+C:\Users\yaren\OneDrive\Masaüstü\udemyc#\ucus_rezervasyon_sistemi\ucus_rezervasyon_sistemi\ucus_rezervasyon_sistemi\obj\Debug\ucus_rezervasyon_sistemi.pdb

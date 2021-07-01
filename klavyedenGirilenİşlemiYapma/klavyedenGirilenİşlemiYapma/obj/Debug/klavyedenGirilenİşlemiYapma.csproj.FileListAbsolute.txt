@@ -1,0 +1,10 @@
+C:\Users\yaren\OneDrive\Masaüstü\udemyc#\klavyedenGirilenİşlemiYapma\klavyedenGirilenİşlemiYapma\obj\Debug\klavyedenGirilenİşlemiYapma.csprojAssemblyReference.cache
+C:\Users\yaren\OneDrive\Masaüstü\udemyc#\klavyedenGirilenİşlemiYapma\klavyedenGirilenİşlemiYapma\obj\Debug\klavyedenGirilenİşlemiYapma.Form1.resources
+C:\Users\yaren\OneDrive\Masaüstü\udemyc#\klavyedenGirilenİşlemiYapma\klavyedenGirilenİşlemiYapma\obj\Debug\klavyedenGirilenİşlemiYapma.Properties.Resources.resources
+C:\Users\yaren\OneDrive\Masaüstü\udemyc#\klavyedenGirilenİşlemiYapma\klavyedenGirilenİşlemiYapma\obj\Debug\klavyedenGirilenİşlemiYapma.csproj.GenerateResource.cache
+C:\Users\yaren\OneDrive\Masaüstü\udemyc#\klavyedenGirilenİşlemiYapma\klavyedenGirilenİşlemiYapma\obj\Debug\klavyedenGirilenİşlemiYapma.csproj.CoreCompileInputs.cache
+C:\Users\yaren\OneDrive\Masaüstü\udemyc#\klavyedenGirilenİşlemiYapma\klavyedenGirilenİşlemiYapma\bin\Debug\klavyedenGirilenİşlemiYapma.exe.config
+C:\Users\yaren\OneDrive\Masaüstü\udemyc#\klavyedenGirilenİşlemiYapma\klavyedenGirilenİşlemiYapma\bin\Debug\klavyedenGirilenİşlemiYapma.exe
+C:\Users\yaren\OneDrive\Masaüstü\udemyc#\klavyedenGirilenİşlemiYapma\klavyedenGirilenİşlemiYapma\bin\Debug\klavyedenGirilenİşlemiYapma.pdb
+C:\Users\yaren\OneDrive\Masaüstü\udemyc#\klavyedenGirilenİşlemiYapma\klavyedenGirilenİşlemiYapma\obj\Debug\klavyedenGirilenİşlemiYapma.exe
+C:\Users\yaren\OneDrive\Masaüstü\udemyc#\klavyedenGirilenİşlemiYapma\klavyedenGirilenİşlemiYapma\obj\Debug\klavyedenGirilenİşlemiYapma.pdb
